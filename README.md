@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Pika
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning PHP and Javascript
